@@ -1,0 +1,39 @@
+body{
+	background-image: url(tiger1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: ;
+}
+
+h1{
+	color: deepskyblue;
+	font-size: 70px;
+	font-family: algerion;
+}
+label{
+	color: black;
+	font-size: 30px;
+	text-decoratblue;
+}
+input[type="submit"]{
+	background-color: skyblue;
+	color: white;
+	width: 70px;
+	height: 27px;
+}
+input[type="submit"]:hover{
+	background-color: black;
+	a: 1sec;
+}
+input{
+	height: 25px;
+	width: 200px;
+	border-radius: 10px;
+	margin-left: 20px;
+}
+table{
+	background-color: white;
+	height: 300px;
+	width: 350px;
+	border-radius: 30px;
+}
